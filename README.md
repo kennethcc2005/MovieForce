@@ -1,2 +1,3 @@
 # MovieForce
-Genuine system to guess to name of the movie based on asking binary questions.
+Genuine system to guess to name of the movie based on asking binary questions. 
+The original model is compressed to archive.zip to compress the model size.
